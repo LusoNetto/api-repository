@@ -1,6 +1,10 @@
-[
-  {
-    name: "Luso Eletrônicos",
-    value: 45623.42
-  }
-]
+{
+  accounts:
+  [
+    {
+      id: 001,
+      name: "Luso Eletrônicos",
+      value: 45623.42
+    }
+  ]
+}
